@@ -15,7 +15,7 @@ image_video_name = 'club1.jpg'
 
 merkmale = [['faces', 'eyes', 'bodies', 'upperbodies', 'lowerbodies', 'leftears', 'rightears']]
 
-#test for GitHUB
+#test for GitHUB1
 
 if image_video_name.find('.mp4') > 0:
     image, data_name, counter = iv.Image_from_Video(image_video_name)
